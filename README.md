@@ -1,5 +1,5 @@
 # Erudine
 html5 game. like a text adventure but the text is a full html. inspire by factorio and industrial mc mods. i am good at describe
 
-# THERE IS NO LICENSE
-you are **not** allowed to use what little there is of this code, sorry. hopefully one day I will figure out when I do want people to use it, but not yet.
+# License
+idk. do whatever you want
